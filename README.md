@@ -7,10 +7,6 @@ This code is only  for academic and research purposes.
 
 All codes are written in MATLAB/MATLAB Simulink.
 
-## Dependencies
-
--- **Matlab/Stateflow** – Used to model and simulate state machines and decision logic within Simulink environments.
-- **Breach** – A MATLAB data analysis toolbox for  verification  of hybrid model using signal temporal logic specifications.
 
 
 ## Description
@@ -21,5 +17,10 @@ optimisation and determination of performance parameters (rise time, fall
 time and power dissipation).</p>
 
 > 
+
+## Dependencies
+
+- **Matlab/Stateflow** – Used to model and simulate state machines and decision logic within Simulink environments.
+- **Breach** – A MATLAB data analysis toolbox for  verification  of hybrid model using signal temporal logic specifications.
 
 
